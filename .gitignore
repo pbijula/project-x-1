@@ -2,7 +2,8 @@
 /build/
 /bin/
 target/
-/META-INF/
+/META-INF
+*.MF
 
  
 # OS Files #
